@@ -6,7 +6,7 @@
   # url: "#"
   description: Ministry of Finance of the Republic of Azerbaijan
 
-- project: Labor
+- project: The Stock Market
   role: DevOps Specialist
   duration: 2022
   # url: "#"
@@ -17,6 +17,18 @@
   duration: 2022
   # url: "#"
   description: Ministry of Labour and Social Protection of the Population
+
+- project: Device Control
+  role: DevOps Specialist
+  duration: 2022
+  # url: "#"
+  description: The Ministry of Justice
+
+- project: PDCIS
+  role: DevOps Specialist
+  duration: 2022
+  # url: "#"
+  description: The Ministry of Justice
 
 - project: Central Registry System
   role: DevOps Specialist
