@@ -1,10 +1,22 @@
 # Projects
 
-- project: Kindergarten central registration system
+- project: Central Protocol System
   role: DevOps Specialist
-  duration: 2021
+  duration: 2023
   # url: "#"
-  description: Baku City Executive Power
+  description: Ministry of Finance of the Republic of Azerbaijan
+
+- project: Labor
+  role: DevOps Specialist
+  duration: 2022
+  # url: "#"
+  description: Ministry of Labour and Social Protection of the Population
+
+- project: Monitoring
+  role: DevOps Specialist
+  duration: 2022
+  # url: "#"
+  description: Ministry of Labour and Social Protection of the Population
 
 - project: Central Registry System
   role: DevOps Specialist
@@ -17,6 +29,12 @@
   duration: 2021
   # url: "#"
   description: Azerishiq OJSC
+
+- project: Kindergarten central registration system
+  role: DevOps Specialist
+  duration: 2021
+  # url: "#"
+  description: Baku City Executive Power  
 
 - project: 
   role: DevOps
