@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Tehran Guluzade"
-resume_title:                   "DevOps Specialist"
+resume_title:                   "System / DevOps Specialist"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "tehran.guluzade@outlook.com"
